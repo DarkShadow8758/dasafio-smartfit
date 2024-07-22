@@ -1,8 +1,8 @@
-export interface Location{
+export interface MyLocation{
     id: number,
     title: string,
     content: string,
-    oponed: boolean,
+    opened: boolean,
     mask: string,
     towel: string,
     fountain: string,
